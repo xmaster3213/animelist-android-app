@@ -2,7 +2,7 @@
 
 This is my first android application.
 
-> **Note**
+> **Note**  
 > Application made for a school project
 
 ## Functionalities
